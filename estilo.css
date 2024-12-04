@@ -1,0 +1,38 @@
+
+
+.miTexto{
+    font-size: 15px;
+    color:blue
+}
+.cabeza{
+    border: 10px solid black;
+    width: 60vw;
+    transition:0.25s ;
+}
+.cabeza:hover{
+    background-color: brown;
+}
+.container{
+background-color: blue;
+width: 85%;
+margin: auto;
+
+border: 2px solid green;
+border-radius: 5%;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+}
+
+.logo{
+    border: 4px solid black;
+    width:fit-content ;
+    padding: 10px;
+    border-radius: 10%;
+    
+
+}
+img{
+    width: 300px;
+}
